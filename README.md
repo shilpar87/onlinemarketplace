@@ -2,6 +2,7 @@ Online marketplace coding exercise
 This is a solution to the coding exercise given my NotOnTheHighStreet
 
 Technologies and frameworks used
+
 gradle v5.2.1
 java 8
 
@@ -24,4 +25,5 @@ Command line instructions to run the exercise
 From the root folder:
 
 Run the following to run all tests
+
 ./gradlew clean test
